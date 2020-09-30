@@ -14,11 +14,10 @@ I currently passionate about Django, Spring Boot, Javascript, Angular and Automa
 - [Campus-Placement-app](http://campusplacement.ga/)  🚀
 
 ### 📫 Where to find me
-- [Facebook](https://www.facebook.com/kavish218) 😏
-- [Instagram](https://www.instagram.com/kavi_agno3/) 😎
-- [LinkedIn](http://linkedin.com/in/KavishAgnihotri/) 👨💼
+- [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/kavish218) 😏
+- [![Instagram](https://img.shields.io/badge/--instagram?label=Instageam&logo=Instagram&style=social)](https://www.instagram.com/kavi_agno3/) 😎
+- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](http://linkedin.com/in/KavishAgnihotri/) 👨💼
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kavish-Agnihotri&show_icons=true&count_private=true"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Agnihotri&layout=compact&hide=tsql&show_icons=true" />
-
